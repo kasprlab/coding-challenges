@@ -18,6 +18,8 @@ Test data:
 - Data 1: Marks weights 78 kg and is 1.69 m tall. John weights 92 kg and is 1.95m tall.
 - Data 2: Marks weights 95 kg and is 1.88 m tall. John weights 85 kg and is 1.76m tall.
 
+&nbps;
+
 ## Coding Challenge 2
 
 Use the BMI example from Challenge #1, and the code you already wrote, and improve it.
