@@ -61,3 +61,9 @@ console.log("js fundamentals part 1 coding challenge 4");
 // }
 
 // coding challenge 4
+let bill = 60;
+const tipPercentage = bill > 50 && bill < 300 ? 0.15 : 0.2;
+const tip = bill * tipPercentage;
+console.log(
+  `The bill was ${bill}, the tip was ${tip} and the total value ${bill + tip}`
+);
